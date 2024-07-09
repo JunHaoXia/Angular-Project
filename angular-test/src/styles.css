@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import "./styles/main.css";
+
+html, 
+body {
+    margin: 0;
+    padding: 50;
+    font-family: "Helvetica Neue";
+    font-size: 12px;
+    line-height: normal;
+    color: #ad3e3e;
+}
